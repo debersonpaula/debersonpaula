@@ -1,6 +1,6 @@
 ## Hello There 🌱
 
-- 🔭 I’m currently working on new version of [ExRedux](https://github.com/debersonpaula/exredux)
+- Working on Blockchain and NFT activies.
 
 ## Known Techs
 
@@ -14,6 +14,8 @@
 - NodeJS, NPM, Webpack, Babel
 - RabbitMQ, Redis
 - Swagger
+- Next.JS
+- Blockchain
 
 ![Deberson's github stats](https://github-readme-stats.vercel.app/api?username=debersonpaula&show_icons=true)
 
