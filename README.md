@@ -1,6 +1,6 @@
 ## Hello There 🌱
 
-- Working on Blockchain and NFT activies.
+
 
 ## Known Techs
 
