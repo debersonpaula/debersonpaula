@@ -17,4 +17,4 @@
 - Next.JS
 - Blockchain
 
-
+![Deberson's github stats](https://github-readme-stats.vercel.app/api?username=debersonpaula&show_icons=true)
