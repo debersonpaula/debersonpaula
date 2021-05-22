@@ -1,21 +1,21 @@
 ## Hello There 🌱
 
-
-
 ## Known Techs
 
+- AWS: Amplify, AppSync, Beanstalk, DynamoDB, S3
 - Angular, React, CSS3, HTML5, SASS
 - BashScripts
-- C#, DotNETCore
+- Blockchain, NFT, Ethereum
+- C#, .NETCore, EntityFramework, Dapper
 - Docker, Kubernetes
 - JavaScript, TypeScript, JQuery
+- Logstash, Elasticsearch, Kibana
 - MSOffice, MSSQL
 - MongoDB, MySQL, OracleDB, Postgres
+- Next.JS
 - NodeJS, NPM, Webpack, Babel
 - RabbitMQ, Redis
 - Swagger
-- Next.JS
-- Blockchain
 
 ![Deberson's github stats](https://github-readme-stats.vercel.app/api?username=debersonpaula&show_icons=true&count_private=true&theme=dark)
 
