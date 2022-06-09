@@ -13,7 +13,7 @@
 - MSOffice, MSSQL
 - MongoDB, MySQL, OracleDB, Postgres
 - Next.JS
-- NodeJS, NPM, Webpack, Babel
+- NodeJS, NPM, Webpack, Babel, Vite, ESBuild
 - RabbitMQ, Redis
 - Swagger
 
